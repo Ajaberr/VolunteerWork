@@ -1,4 +1,4 @@
 # VolunteerWork
 
-Use High Quality scanner to scan ids!
-Write phone number on paper and place behind id card when scanning1
+Use a high-quality scanner to scan IDs! /n
+Write the phone number on paper and place it behind the ID card when scanning!
